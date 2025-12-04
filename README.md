@@ -2,28 +2,6 @@
 
 I’m a Computer Engineering student who actually likes *building things that work*.  
 
-### 🖥️ Frontend
-- HTML • CSS • JavaScript  
-- Responsive layouts  
-- DOM manipulation  
-- Component-based UI design  
-
-### ⚙️ Backend
-- Node.js  
-- Express.js  
-- REST APIs  
-- Basic auth, routing, middleware  
-
-### 🗂️ Database
-- MongoDB (CRUD, Mongoose basics)
-
-### 🛠 Tools & Workflow
-- Git & GitHub  
-- VS Code  
-- GitHub Pages  
-- Postman  
-- npm ecosystem  
-
 ---
 
 ## 🔥 What I'm Working On Now
@@ -37,15 +15,33 @@ Even though the course is complete, I'm actively applying everything by building
 ---
 
 ## 🛠 Tech Stack
-**Languages:**  
-HTML • CSS • JavaScript • TailwindCSS • ReactJs • NextJs • C++ (basic) • Python (basic) • 
-**Databases:** 
-MongoDB • SQL
-**Tools / Platforms:**  
-VS Code • Git & GitHub • GitHub Pages • Linux (basic)
+### 🖥️ Frontend
+- HTML • CSS • JavaScript
+- Responsive layouts  
+- DOM manipulation  
+- Component-based UI design
+  
+### ⚛️ Frontend Frameworks & Styling
+- React (component-driven UIs, hooks, state management)  
+- Tailwind CSS (utility-first styling, rapid UI prototyping)  
+- Next.js 
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- REST APIs  
+- Basic auth, routing, middleware  
 
-**Areas Interested In:**  
-Web Dev • AI Tools • Finance Tech • Trading Automation
+### 🗂️ Database
+- MongoDB (CRUD, Mongoose basics)
+- SQL 
+
+### 🛠 Tools & Workflow
+- Git & GitHub  
+- VS Code  
+- GitHub Pages  
+- Postman  
+- npm ecosystem  
+
 
 ---
 
