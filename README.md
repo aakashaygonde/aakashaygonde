@@ -38,20 +38,22 @@ Even though the course is complete, I'm actively applying everything by building
 
 ## 🛠 Tech Stack
 **Languages:**  
-HTML • CSS • JavaScript • C • C++  
-
+HTML • CSS • JavaScript • TailwindCSS • ReactJs • NextJs • C++ (basic) • Python (basic) • 
+**Databases:** 
+MongoDB • SQL
 **Tools / Platforms:**  
-VS Code • Git & GitHub • GitHub Pages • Blender • Linux (basic)
+VS Code • Git & GitHub • GitHub Pages • Linux (basic)
 
 **Areas Interested In:**  
-Web Dev • Cybersecurity • AI Tools • Finance Tech • Trading Automation
+Web Dev • AI Tools • Finance Tech • Trading Automation
 
 ---
 
 ## 📌 My Recent Projects
 - 📱 **Twitter Clone (HTML • CSS • JS • Tailwind)**
 - 🎧 **Spotify Clone (HTML • CSS • JS)** – functional player + UI  
-- 🌐 **Basic Netflix UI Clone(HTML • CSS)**  
+- 🌐 **Basic Netflix UI Clone(HTML • CSS)**
+- 🏅 **Kho Kho Arena** - Fully fuctional SaaS created as team of 4.  
 
 (You’ll see more projects showing up here — I’m actively adding to my portfolio.)
 
