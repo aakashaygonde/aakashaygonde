@@ -46,7 +46,7 @@ Even though the course is complete, I'm actively applying everything by building
 ---
 
 ## 📌 My Recent Projects
-- 📱 **Twitter Clone (HTML • CSS • JS • Tailwind)**
+- 📱 **Twitter Clone (HTML • CSS • Tailwind)**
 - 🎧 **Spotify Clone (HTML • CSS • JS)** – functional player + UI  
 - 🌐 **Basic Netflix UI Clone(HTML • CSS)**
 - 🏅 **Kho Kho Arena** - Fully fuctional SaaS created as team of 4.  
@@ -79,7 +79,7 @@ If you want to collaborate or just talk tech/finance:
 
 ## ⭐ Current Goal
 Level up as a developer by:
-- Build 10+ polished portfolio projects  
+- Build some great portfolio projects  
 - Learn advanced backend concepts (auth, sessions, JWT)  
 - Deploy full-stack apps  
 - Practice real industry workflows (APIs, DB schema, MVC)  
