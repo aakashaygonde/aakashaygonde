@@ -46,6 +46,7 @@ Even though the course is complete, I'm actively applying everything by building
 ---
 
 ## 📌 My Recent Projects
+- ✅ **Todo App (React • Tailwind )**
 - 📱 **Twitter Clone (HTML • CSS • Tailwind)**
 - 🎧 **Spotify Clone (HTML • CSS • JS)** – functional player + UI  
 - 🌐 **Basic Netflix UI Clone(HTML • CSS)**
