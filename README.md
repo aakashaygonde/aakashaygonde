@@ -49,32 +49,22 @@ Even though the course is complete, I'm actively applying everything by building
 - 🌐 **Vexo — URL Shortener with Dynamic Routing (Next.js)**
 - 🔐 **PassOG — Password Manager (React, LocalStorage & MongoDB)**
 - ✅ **Todo App (React • Tailwind )**
+- 🏅 **Kho Kho Arena** - Fully fuctional SaaS created as team of 4. 
 - 📱 **Twitter Clone (HTML • CSS • Tailwind)**
 - 🎧 **Spotify Clone (HTML • CSS • JS)** – functional player + UI  
 - 🎬 **Basic Netflix UI Clone(HTML • CSS)**
-- 🏅 **Kho Kho Arena** - Fully fuctional SaaS created as team of 4.  
+ 
 
 (You’ll see more projects showing up here — I’m actively adding to my portfolio.)
 
 ---
 
-## 📈 Beyond Tech
-I also run **Sky Trader**, where I make simple, beginner-friendly content on:
-- Trading  
-- Stock market basics  
-- Finance education  
-- Discipline & mindset  
-
-I like building things that have *impact* — whether tech or finance.
-
----
 
 ## 🤝 Let’s Connect
 If you want to collaborate or just talk tech/finance:
 
 📩 **Email:** aakashaygonde@gmail.com  
 🔗 **Instagram:** <a href="https://instagram.com/aakashhaygonde" target="_blank">@aakashhaygonde</a>
- &nbsp; • &nbsp; /   <a href="https://instagram.com/skytrader_03" target="_blank">@skytrader_03</a>
  &nbsp; • &nbsp;
 🔗 **LinkedIn:**  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">Aakash Haygonde</a>
 
@@ -86,7 +76,7 @@ Level up as a developer by:
 - Learn advanced backend concepts (auth, sessions, JWT)  
 - Deploy full-stack apps  
 - Practice real industry workflows (APIs, DB schema, MVC)  
-- improving as a creator + engineer  
+- improving as an engineer  
 
 ---
 
