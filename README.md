@@ -49,7 +49,6 @@ Even though the course is complete, I'm actively applying everything by building
 - 🌐 **Vexo — URL Shortener with Dynamic Routing (Next.js)**
 - 🔐 **PassOG — Password Manager (React, LocalStorage & MongoDB)**
 - ✅ **Todo App (React • Tailwind )**
-- 🏅 **Kho Kho Arena** - Fully fuctional SaaS created as team of 4. 
 - 📱 **Twitter Clone (HTML • CSS • Tailwind)**
 - 🎧 **Spotify Clone (HTML • CSS • JS)** – functional player + UI  
 - 🎬 **Basic Netflix UI Clone(HTML • CSS)**
