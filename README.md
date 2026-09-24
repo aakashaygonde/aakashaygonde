@@ -64,4 +64,4 @@ C++ & DSA · Advanced JavaScript · Backend Architecture · Authentication · Da
 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE) · [GitHub](https://github.com/aakashaygonde) · [Instagram](https://instagram.com/aakashhaygonde) · [Email](mailto:aakashaygonde@gmail.com)
 --------------
 
-[![](https://komarev.com/ghpvc/?username=aakashaygonde&icon=0&color=0)](https://visitcount.itsvg.in)
+
